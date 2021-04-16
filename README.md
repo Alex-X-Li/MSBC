@@ -1,7 +1,8 @@
 # MSBC
 Mini scintillating bubble chamber related codes
 
-Julia_MC.ipynb: the electron propagation in LAr with alternative electric field. The code is written in Julia 1.0.5
+Julia_MC.ipynb: the electron propagation in LAr with alternative electric field. The code is written in Julia 1.0.5. 
+The model base on: https://arxiv.org/abs/1508.07059
 
 MC_jnote.ipynb: the electron propagation in LAr with constant electric field in python 3.6.
 
